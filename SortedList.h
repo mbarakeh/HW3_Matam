@@ -51,7 +51,6 @@ namespace mtm {
         template<typename Functor>
         SortedList<T> apply(Functor operation) const;
 
-
     };
 
     template<typename T>
@@ -261,4 +260,9 @@ namespace mtm {
     }
 
 }
+
+
+
+
+
 
